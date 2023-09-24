@@ -1,0 +1,234 @@
+<mxfile host="app.diagrams.net" modified="2023-09-24T14:53:35.204Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.5.717 Yowser/2.5 Safari/537.36" etag="poATjsdV_je7rW613VPu" version="21.8.0" type="device">
+  <diagram name="Page-1" id="uoIPArNnlJUPNpK6bZ2S">
+    <mxGraphModel dx="2666" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HlM6siCA24JxWYtIi5CB-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="HlM6siCA24JxWYtIi5CB-12" edge="1" source="HlM6siCA24JxWYtIi5CB-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="100" as="targetPoint" />
+            <mxPoint x="650" y="10" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlM6siCA24JxWYtIi5CB-10" target="NEpCTgn56y9m1EiiJN9Q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlM6siCA24JxWYtIi5CB-10" target="NEpCTgn56y9m1EiiJN9Q-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlM6siCA24JxWYtIi5CB-10" target="NEpCTgn56y9m1EiiJN9Q-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HlM6siCA24JxWYtIi5CB-10" value="&amp;nbsp;root" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="-50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HlM6siCA24JxWYtIi5CB-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" target="HlM6siCA24JxWYtIi5CB-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="120" as="sourcePoint" />
+            <mxPoint x="940" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlM6siCA24JxWYtIi5CB-12" target="NEpCTgn56y9m1EiiJN9Q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlM6siCA24JxWYtIi5CB-12" target="NEpCTgn56y9m1EiiJN9Q-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HlM6siCA24JxWYtIi5CB-12" value="Акустика&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-1" value="Акустика" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-2" target="NEpCTgn56y9m1EiiJN9Q-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-2" value="Клавиатура&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-3" value="Мышка" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-5" value="Жесткий диск" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-7" value="Материнка" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-8" value="Геймпад" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-9" value="Блок питания" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-11" target="NEpCTgn56y9m1EiiJN9Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-11" value="Клавиатура&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-13" value="Материнка&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-15" value="Монитор" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-16" target="NEpCTgn56y9m1EiiJN9Q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-16" target="NEpCTgn56y9m1EiiJN9Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-16" target="NEpCTgn56y9m1EiiJN9Q-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-16" target="NEpCTgn56y9m1EiiJN9Q-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-16" value="Жесткий диск&lt;br&gt;4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-20" target="NEpCTgn56y9m1EiiJN9Q-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-20" value="Акустика&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-22" value="Геймпад&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-24" target="NEpCTgn56y9m1EiiJN9Q-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-24" target="NEpCTgn56y9m1EiiJN9Q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-24" target="NEpCTgn56y9m1EiiJN9Q-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-24" target="NEpCTgn56y9m1EiiJN9Q-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-24" value="Мышка&lt;br&gt;11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-27" target="NEpCTgn56y9m1EiiJN9Q-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="704.4266317520746" y="270.75715910899135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-27" target="NEpCTgn56y9m1EiiJN9Q-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="727.0084020703057" y="279.8879723959217" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-27" value="Акустика&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-30" value="Клавиатура" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-31" value="Блок питания&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-33" target="NEpCTgn56y9m1EiiJN9Q-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-33" value="Блок питания&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-37" target="NEpCTgn56y9m1EiiJN9Q-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="837.4899745021339" y="277.99341077129793" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.938;exitY=0.788;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-37" target="NEpCTgn56y9m1EiiJN9Q-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="862.5100254978656" y="277.9934107712952" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-37" target="NEpCTgn56y9m1EiiJN9Q-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="878.2842712474621" y="268.28427124746213" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-37" value="Жесткий диск&lt;br&gt;5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-39" value="Геймпад&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-42" value="Акустика&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="890" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-44" target="NEpCTgn56y9m1EiiJN9Q-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-44" value="Блок питания&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-46" target="NEpCTgn56y9m1EiiJN9Q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-46" value="Материнка&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-35" value="Клавиатура&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-49" value="Геймпад&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-51" target="NEpCTgn56y9m1EiiJN9Q-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-51" value="Клавиатура&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="970" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-53" target="NEpCTgn56y9m1EiiJN9Q-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-53" value="Материнка&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-55" value="Геймпад&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEpCTgn56y9m1EiiJN9Q-57" target="NEpCTgn56y9m1EiiJN9Q-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-57" value="Клавиатура&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-59" value="Блок питания&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-61" value="Блок питания&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-64" value="Материнка&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-66" value="Материнка&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="970" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-68" value="Геймпад&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-70" value="Геймпад&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEpCTgn56y9m1EiiJN9Q-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="560" as="sourcePoint" />
+            <mxPoint x="1590" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
